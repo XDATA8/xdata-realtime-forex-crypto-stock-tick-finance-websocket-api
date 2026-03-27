@@ -1,8 +1,8 @@
 > [English](./README.md) | [中文](./README_cn.md)
 
-## Author: AllTick
+## Author: XDATA
 
-## Project Name: AllTick Real-time Quotation APIs
+## Project Name: XDATA Real-time Quotation APIs
 
 # Real-time Financial Market Data API, Real-time Forex Data API, Real-time Stock Data API, Real-time Cryptocurrency Data API, Real-time Commodity Data API Service, Real-time Tick Data, Tick-by-Tick Quotes, Data Access Solutions,Real-time stocks, real-time US stocks, real-time Hong Kong stocks.
 

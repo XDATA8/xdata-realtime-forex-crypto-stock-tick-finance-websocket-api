@@ -9,4 +9,4 @@
 ## Note: Not a market index, prices may differ slightly from market indices.
 ## View the complete list of CFD index product codes:
 [CFD Index Code List](https://docs.google.com/spreadsheets/d/1avkeR1heZSj6gXIkDeBt8X3nv4EzJetw4yFuKjSDYtA/edit?gid=796429803#gid=796429803)
-<br/>(Note: Codes that can be found in the product list indicate Alltick support, while codes that cannot be found indicate non-support.)
+<br/>(Note: Codes that can be found in the product list indicate XDATA support, while codes that cannot be found indicate non-support.)

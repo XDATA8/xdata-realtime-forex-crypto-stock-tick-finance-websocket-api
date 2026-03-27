@@ -4,7 +4,7 @@
 
 # Price Change Calculation
 
-**Alltick API does not provide price change or 24-hour price change fields.** Users can calculate price changes using Alltick data.
+**Alltick API does not provide price change or 24-hour price change fields.** Users can calculate price changes using XDATA data.
 
 **1、Daily Price Change Calculation**
 

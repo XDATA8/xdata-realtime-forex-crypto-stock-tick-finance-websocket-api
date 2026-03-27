@@ -26,7 +26,7 @@
 ## Code Example
 
 ### View the code list of all A-shares products:
-[A Share All Code List](https://docs.google.com/spreadsheets/d/1avkeR1heZSj6gXIkDeBt8X3nv4EzJetw4yFuKjSDYtA/edit?gid=1702052913#gid=1702052913)<br/>(Note: Codes that can be searched in the product list are supported by Alltick, while codes that cannot be found are not supported.)
+[A Share All Code List](https://docs.google.com/spreadsheets/d/1avkeR1heZSj6gXIkDeBt8X3nv4EzJetw4yFuKjSDYtA/edit?gid=1702052913#gid=1702052913)<br/>(Note: Codes that can be searched in the product list are supported by XDATA, while codes that cannot be found are not supported.)
 
 ### Code Example
 

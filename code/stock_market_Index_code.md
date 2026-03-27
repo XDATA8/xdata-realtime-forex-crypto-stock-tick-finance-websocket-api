@@ -7,4 +7,4 @@
 # Market Index
 ## View the complete list of market index product codes:
 [Market Index Code List](https://docs.google.com/spreadsheets/d/1avkeR1heZSj6gXIkDeBt8X3nv4EzJetw4yFuKjSDYtA/edit?gid=660279967#gid=660279967)
-<br/>(Note: Codes that can be found in the product list indicate Alltick support, while codes that cannot be found indicate non-support.)
+<br/>(Note: Codes that can be found in the product list indicate XDATA support, while codes that cannot be found indicate non-support.)
